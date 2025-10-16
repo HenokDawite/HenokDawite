@@ -7,6 +7,7 @@
 - 🧩 Open-source contributions in Python and JavaScript projects focused on backend improvements and new features
 
 🛠️ **Tech Stack Experience**
+
 **Languages:** Python, Java, JavaScript, Go, TypeScript, C, HTML/CSS, SQL  
 **Frameworks & Libraries:** React, React Native, Node.js, Express, Supabase, Flask, Next.js  
 **Developer Tools:** Git, GitHub, Docker, VS Code, Postman, Figma, Firebase, Render, Vercel  
