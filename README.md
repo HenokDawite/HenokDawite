@@ -4,7 +4,6 @@
 
 💻 **What I love building**
 - 🚗 Intelligent campus tools like [**P-ickup**](https://github.com/HenokDawite/p-ickup) — a rideshare optimization platform for students  
-- 🧺 User-centered interfaces like [**Laundry Machine Web App**](https://github.com/bgizaw/laundry-app-react-native) — a real-time laundry availability tracker  
 - 🧩 Open-source contributions in Python and JavaScript projects focused on backend improvements and new features
 
 🛠️ **Tech Stack Experience**
